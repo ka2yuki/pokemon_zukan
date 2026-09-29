@@ -1,5 +1,6 @@
-# ポケモン図鑑 React
+# ポケモン図鑑
 
-url: https://pokemon-zukan-sepia.vercel.app/
+URL: https://pokemon-zukan-sepia.vercel.app/
 
-- ポケAPIからポケモンデータを取得: https://pokeapi.co/
+- Reactで作成
+- [ポケAPI](https://pokeapi.co/)からポケモンデータを取得
